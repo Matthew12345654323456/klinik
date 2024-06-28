@@ -32,7 +32,7 @@
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                     Temporibus, expedita iusto veniam atque, magni tempora mollitia
                     dolorum consequatur nulla, neque debitis eos reprehenderit quasi
-                    ab ipsum nisi dolorem modi. Quos? 1111
+                    ab ipsum nisi dolorem modi. Quos?
                 </p>
             </div>
 
